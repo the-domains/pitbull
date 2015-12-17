@@ -1,0 +1,28 @@
+name: pitbull
+favicon: null
+layout_spectrum: 0.7831491655670106
+typography_spectrum: 0.4033086400013417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8116016746498644
+  lightness: 0.47433669003657997
+  saturation: 0.7445806541945785
+  rhythmicContrast: 0.6209712910931557
+purpose: []
